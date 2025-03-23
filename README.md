@@ -51,9 +51,8 @@
 
 ## 🌐 Conéctate conmigo  
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/marcos-zarate-0a77a5195" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:marcoskrause2002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <!-- Divisor horizontal -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
