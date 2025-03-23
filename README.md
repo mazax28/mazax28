@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**mazax28/mazax28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Marcos Zarate 👋</h1>
+<h3 align="center">A full-stack developer with a strong focus on web development, backend technologies, and security best practices. Passionate about building scalable applications, optimizing performance, and contributing to open-source projects.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 🚀 I’m currently deepening my expertise in full-stack web development, focusing on backend architecture, database optimization, and modern frontend frameworks.  
+- 📩 You can reach me at **[marcoskrause2002@gmail.com](mailto:marcoskrause2002@gmail.com)** for collaboration opportunities or technical discussions.  
+- 🔍 I have a strong interest in web security, API development, and performance optimization.  
+- 🎯 Always eager to learn new technologies and contribute to open-source projects.  
+
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,nodejs,express,prisma,mongodb,postgres,docker,linux,git,github,vscode,python&perline=7">
+
+</p>
+
+---
+
+## 🚀 Featured Projects  
+- [🔗 My Portfolio](https://miportafolio.com) - A personal website built with Next.js and Tailwind CSS.  
+- [🔗 Secure API](https://github.com/marcos/api-security) - A REST API with JWT authentication and best security practices.  
+
+---
+
+## 🌐 Connect with me  
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:marcoskrause2002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<!-- Profile visit count -->
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=marcos&icon=3&color=6)](https://visitcount.itsvg.in)
+</div>
+
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
