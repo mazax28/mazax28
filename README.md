@@ -40,6 +40,13 @@
 
 🔒 **[🔗 API Segura](https://github.com/marcos/api-security)** – API REST con autenticación **JWT y OAuth**, cifrado de datos y estándares de seguridad.  
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=mazax28&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mazax28)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mazax28&theme=material-palenight)](https://github.com/mazax28)
+</div>
+
 ---
 
 ## 🌐 Conéctate conmigo  
