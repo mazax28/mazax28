@@ -1,7 +1,7 @@
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hello, I'm Marcos Zarate 👋</h1>
+<h1 align="center">Hey there, I'm Marcos Zarate 👋</h1>
 <h3 align="center">A full-stack developer with a strong focus on web development, backend technologies, and security best practices. Passionate about building scalable applications, optimizing performance, and contributing to open-source projects.</h3>
 
 
