@@ -48,10 +48,5 @@
   <a href="mailto:marcoskrause2002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- Contador de visitas -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=marcos&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
