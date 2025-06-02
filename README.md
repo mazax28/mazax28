@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Sobre mí  
-💡 **Frontend & Backend**: Me especializo en el desarrollo de interfaces modernas y dinámicas con **React, Next.js y Tailwind CSS**, así como en la creación de arquitecturas backend escalables con **Node.js, Express y bases de datos SQL/NoSQL**.  
+💡 **Frontend & Backend**: Me especializo en el desarrollo de interfaces modernas y dinámicas con **React y Tailwind CSS**, así como en la creación de arquitecturas backend escalables con **Node.js, Express y bases de datos SQL/NoSQL**.  
 
 🎨 **UX&UI**: Me encanta desarrollar interfaces atractivas y responsivas, optimizando el rendimiento y la accesibilidad para una mejor experiencia de usuario.  
 
@@ -28,17 +28,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,sass,nodejs,bun,vite,express,prisma,django,flask,mongodb,postgres,jest,postman,docker,firebase,supabase,figma,linux,git,github,vscode&perline=7">
 </p>
-
----
-
-## 🚀 Proyectos Destacados  
-✅ **[🔗 Mi Portafolio](https://miportafolio.com)** – Sitio web moderno desarrollado con **Next.js, Tailwind CSS y Framer Motion**, optimizado para SEO y rendimiento.  
-
-📊 **[🔗 DashAnalytics](https://github.com/marcos/dashanalytics)** – Dashboard interactivo para visualización de datos en tiempo real, con **React, Chart.js y Node.js**.  
-
-🛍️ **[🔗 E-Commerce UI](https://github.com/marcos/ecommerce-ui)** – Plataforma de e-commerce con **React, Redux y Stripe**, diseño atractivo y experiencia de usuario fluida.  
-
-🔒 **[🔗 API Segura](https://github.com/marcos/api-security)** – API REST con autenticación **JWT y OAuth**, cifrado de datos y estándares de seguridad.  
+ 
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
